@@ -1,0 +1,13 @@
+# Generated logs
+*.log
+
+# Generated reports
+*.txt
+
+# Environment files
+.env
+.env.*
+
+# Editor/OS files
+.vscode/
+.DS_Store
